@@ -77,10 +77,10 @@ public class mainmethod3 {
 				break;
 		default: System.out.println("Enter options between 1-5");
 		}
-		
+		System.out.println("Good bye!!!!!!!!!!");	
 		}
 		
-		
+	
 		
 	}
 	
